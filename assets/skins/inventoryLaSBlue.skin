@@ -2,7 +2,6 @@
     "inherit": "default",
     "elements": {
         "InventoryCell": {
-            "background": "engine:area",
             "background-border": {
                 "top": 4,
                 "bottom": 4,

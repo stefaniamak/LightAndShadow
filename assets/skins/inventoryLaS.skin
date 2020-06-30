@@ -2,7 +2,7 @@
     "inherit": "default",
     "elements": {
         "InventoryCell": {
-            "background": "engine:area",
+            "background": "LightAndShadowResources:ammoArea",
             "background-border": {
                 "top": 4,
                 "bottom": 4,
